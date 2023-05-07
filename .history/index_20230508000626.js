@@ -160,8 +160,8 @@ const zooAnimals = [
 2. Return the product of those numbers
 */
 
-function multiply(a, b){
-  return a * b;
+function multiply(a,b){
+   /*Your Code Here */
   }
 
 
