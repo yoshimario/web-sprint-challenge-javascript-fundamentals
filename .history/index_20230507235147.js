@@ -121,13 +121,10 @@ const zooAnimals = [
   💡 NOTE: Remember the reduce method takes two arguments: a callback (which itself takes two args - the accumulator and the item), and an initial value for the count. Check MDN/W3Schools for syntax!
   */
 
-  function USApop(zooAnimals){
-    const totalPopulation = zooAnimals.reduce((accumulator, animal) => {
-      return accumulator + animal.population;
-    }, 0);
-    
-    return totalPopulation;
+  function USApop(/*Your Code Here*/){
+    /*Your Code Here*/
   }
+  
   
   // 🦁🦁🦁 Callbacks 🦁🦁🦁 
   /* 🦁🦁🦁 Step 1: Create a higher-order function 🦁🦁🦁
