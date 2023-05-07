@@ -18,6 +18,7 @@ function myFunction() {
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
 MyFunction is contained in the code above. Inside its scope, a variable is declared. There is a nested function. Is defined in myFunction. It's a child of myFunction, that's what it means. There is access to all the variables in myFunction. Including internal.
+
 When nestedFunction is involved. The console.log is able to access the internal value because it is in the parent functions scope. When my function is involved. The first thing it does is print the value of external and then call nestedFunction. The value of internal, which is declared in the parent functions scope, is able to be accessed and printed.
 
 
