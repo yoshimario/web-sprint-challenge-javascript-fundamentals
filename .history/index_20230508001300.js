@@ -218,9 +218,7 @@ CuboidMaker.prototype.volume = function(){
   Create another method called surfaceArea using CuboidMaker's prototype that returns the surface area of a given cuboid's length, width, and height. 
   💡 NOTE: Formula for cuboid surface area: 2 * (length * width + length * height + width * height)  
 */
-CuboidMaker.prototype.surfaceArea = function(){
-  return 2 * (this.length * this.width + this.length * this.height + this.width * this.height);
-}
+
 
 
 
